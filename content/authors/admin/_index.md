@@ -9,6 +9,8 @@ title: Joshua Park
 first_name: Joshua
 last_name: Park
 
+avatar: avatar.png
+
 # Status emoji
 # status:
 #   icon: ☕️
