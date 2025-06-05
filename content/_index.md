@@ -20,7 +20,7 @@ sections:
         url: uploads/resume.pdf
     design:
       # css_class: dark
-      css_class: avatar-xl
+      css_class: avatar-xxxl
       # background:
       #   color: black
       #   image:
