@@ -63,8 +63,8 @@ sections:
         exclude_featured: false
     design:
       view: citation
-      spacing:
-        padding: [0, 0, 0, 0]
+      # spacing:
+      #   padding: [0, 0, 0, 0]
   # - block: collection
   #   id: talks
   #   content:
