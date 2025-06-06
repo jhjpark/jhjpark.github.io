@@ -6,7 +6,7 @@ type: landing
 
 design:
   # Default section spacing
-  spacing: "6rem"
+  spacing: "2rem"
 
 sections:
   - block: resume-biography-3
@@ -20,7 +20,6 @@ sections:
         url: uploads/resume.pdf
     design:
       # css_class: dark
-      css_class: avatar-xxxl
       # background:
       #   color: black
       #   image:
