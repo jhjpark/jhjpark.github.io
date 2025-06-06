@@ -6,7 +6,7 @@ type: landing
 
 design:
   # Default section spacing
-  spacing: "0rem"
+  spacing: "2rem"
 
 sections:
   - block: resume-biography-3
@@ -63,6 +63,7 @@ sections:
         exclude_featured: false
     design:
       view: citation
+      spacing: "1rem"
   # - block: collection
   #   id: talks
   #   content:
