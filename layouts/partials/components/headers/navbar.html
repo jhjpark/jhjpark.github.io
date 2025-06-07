@@ -11,14 +11,14 @@
             {{ if eq $logoExt `.svg` }}
               {{- $logo.Content | safeHTML -}}
             {{else}}
-              {{ $logo_img := $logo.RelPermalink }}
+              {{ $logo_img := ($logo) }}
               <img
                 fetchpriority="high"
                 decoding="async"
                 class=""
                 width="{{ $logo_img.Width }}"
                 height="{{ $logo_img.Height }}"
-                src="{{ $logo_img }}"
+                src="{{ $logo_img.RelPermalink }}"
                 alt="{{ site.Title }}" />
             {{end}}
           {{ else }}
