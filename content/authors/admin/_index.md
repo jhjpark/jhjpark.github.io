@@ -81,28 +81,28 @@ education:
       text: 'Read Thesis'
       url: uploads/thesis.pdf
 work:
-  # - position: Director of Cloud Infrastructure
-  #   company_name: GenCoin
-  #   company_url: ''
-  #   company_logo: ''
-  #   date_start: 2021-01-01
-  #   date_end: ''
-  #   summary: |2-
-  #     Responsibilities include:
-  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  # - position: Backend Software Engineer
-  #   company_name: X
-  #   company_url: ''
-  #   company_logo: ''
-  #   date_start: 2016-01-01
-  #   date_end: 2020-12-31
-  #   summary: |
-  #     Responsibilities include:
-  #     - Migrated infrastructure to a new data center
-  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - position: Deep Learning Software Engineer Intern
+    company_name: NVIDIA Coorporation
+    company_url: https://www.nvidia.com/en-us/
+    company_logo: org-nv.svg
+    date_start: 2024-05-20
+    date_end: 2024-08-30
+    # summary: |2-
+    #   Responsibilities include:
+    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - position: Quantitative Trader Intern
+    company_name: Five Rings Capital
+    company_url: https://fiverings.com/
+    company_logo: org-fr.jpg
+    date_start: 2024-01-03
+    date_end: 2024-02-02
+    # summary: |
+    #   Responsibilities include:
+    #   - Migrated infrastructure to a new data center
+    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
