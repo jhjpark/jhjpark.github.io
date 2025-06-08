@@ -7,9 +7,12 @@ main:
   # - name: Bio
   #   url: /
   #   weight: 10
-  - name: News
-    url: /#news
-    weight: 10
+  # - name: News
+  #   url: /#news
+  #   weight: 10
+  - name: Work Experience
+    url: /#papers
+    weight: 11
   - name: Papers
     url: /#papers
     weight: 11

@@ -65,14 +65,14 @@ education:
   #     url: 'https://example.com'
   - area: S.M. Statistics
     institution: Harvard University
-    date_start: 2023
-    date_end: 2025
+    date_start: 2023-09-01
+    date_end: 2025-05-28
     summary: |
       GPA: 3.96/4.0
   - area: A.B. Computer Science and Mathematics
     institution: Harvard College
-    date_start: 2021
-    date_end: 2025
+    date_start: 2021-09-01
+    date_end: 2025-05-28
     summary: |
       Summa Cum Laude, Phi Beta Kappa
       GPA: 4.0/4.0
