@@ -83,8 +83,8 @@ education:
 work:
   - position: Deep Learning Software Engineer Intern
     company_name: NVIDIA Coorporation
-    company_url: https://www.nvidia.com/en-us/
-    company_logo: org-nv.svg
+    # company_url: https://www.nvidia.com/en-us/
+    # company_logo: org-nv.svg
     date_start: 2024-05-20
     date_end: 2024-08-30
     # summary: |2-
@@ -94,8 +94,8 @@ work:
     #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - position: Quantitative Trader Intern
     company_name: Five Rings Capital
-    company_url: https://fiverings.com/
-    company_logo: org-fr.jpg
+    # company_url: https://fiverings.com/
+    # company_logo: org-fr.jpg
     date_start: 2024-01-03
     date_end: 2024-02-02
     # summary: |
