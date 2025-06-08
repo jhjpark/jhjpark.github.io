@@ -93,6 +93,7 @@ sections:
   #     spacing:
   #       padding: [0, 0, 0, 0]
   - block: resume-experience
+    id: experience
     content:
       username: admin
     design:
