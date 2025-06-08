@@ -75,7 +75,9 @@ education:
     date_end: 2025-05-28
     summary: |
       Summa Cum Laude, Phi Beta Kappa
+
       GPA: 4.0/4.0
+      
       Thesis: Quantization, Sparsity, Reliability, and Their Interactions
     button:
       text: 'Read Thesis'
