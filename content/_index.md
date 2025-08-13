@@ -42,14 +42,14 @@ sections:
   #       Please reach out to collaborate 😃
   #   design:
   #     columns: '1'
-  - block: collection
-    id: papers
-    content:
-      title: Featured Publications
-      filters:
-        folders:
-          - publication
-        featured_only: true
+  # - block: collection
+  #   id: papers
+  #   content:
+  #     title: Featured Publications
+  #     filters:
+  #       folders:
+  #         - publication
+  #       featured_only: true
   #   design:
   #     view: article-grid
   #     columns: 2
@@ -101,19 +101,19 @@ sections:
       date_format: 'January 2006'
       # Education or Experience section first?
       is_education_first: false
-  # - block: collection
-  #   id: papers
-  #   content:
-  #     title: Recent Publications
-  #     text: ""
-  #     filters:
-  #       folders:
-  #         - publication
-  #       exclude_featured: false
-  #   design:
-  #     view: citation
-  #     # spacing:
-  #     #   padding: [0, 0, 0, 0]
+  - block: collection
+    id: papers
+    content:
+      title: Recent Publications
+      text: ""
+      filters:
+        folders:
+          - publication
+        exclude_featured: false
+    design:
+      view: citation
+      # spacing:
+      #   padding: [0, 0, 0, 0]
   # - block: cta-card
   #   demo: true # Only display this section in the Hugo Blox Builder demo site
   #   content:
