@@ -22,7 +22,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Deep Learning Software Engineer Intern
+role: Systems Software Engineer
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -81,7 +81,7 @@ education:
       text: 'Read Thesis'
       url: uploads/thesis.pdf
 work:
-  - position: Deep Learning Software Engineer Intern
+  - position: Systems Software Engineer
     company_name: NVIDIA Coorporation
     # company_url: https://www.nvidia.com/en-us/
     # company_logo: org-nv.svg
