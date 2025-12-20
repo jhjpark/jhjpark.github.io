@@ -8,8 +8,8 @@ appearance:
   mode: light
   # color: default
 
-# favicon:
-#   icon: "favicon.ico"  # or "favicon.png"
+favicon:
+  icon: "favicon.ico"
 
 # SEO
 marketing:
